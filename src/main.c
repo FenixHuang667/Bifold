@@ -32,9 +32,9 @@ void usage()
 {
     printf("usage:\n"
            "Smapler [-OPTIONS}\n"
-           "[-i inputfilename] Specify the input file (default input.in)"
-           "[-o outputfilename] Specify the output file (default output.out)"
-           "[-m number] Specify the sample size (defaout:1000)"
+           "[-i inputfilename] Specify the input file (default input.in)\n"
+           "[-o outputfilename] Specify the output file (default output.out)\n"
+           "[-m number] Specify the sample size (defaout:1000)\n"
            //"[-c] c1 coefficient"
            //"[-v] c2 coefficient"
            //"[-showS] show the sampled sequences"
