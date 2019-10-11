@@ -64,7 +64,7 @@ Currently we do not support input with multiple structures.
 
 User can find c (user specificed, otherwise default c=1000) entries of sampled sequences in the output file. The included output file "output.out" is an example by running the commands
 ```
-./src/Bifold -d 10 
+./src/Bifold 
 ```
 
 The problem is NP-hard, and its time complexity grows exponentially with the number of exposed vertices (defined in the article). The program will run a pre-assessment on this number. If the assessment is >20, the program will stop because the runtime will be too long. 
