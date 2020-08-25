@@ -72,7 +72,7 @@ The problem is NP-hard, and its time complexity grows exponentially with the num
 
 ## Contact
 
-If you have any question or bug reports about HamSampler, please feel free to conatct the author Fenix Huang at fenixprotoss@gmail.com.  
+If you have any question or bug reports about Bifold, please feel free to conatct the author Fenix Huang at fenixprotoss@gmail.com.  
 
 
 
